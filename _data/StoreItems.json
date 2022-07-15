@@ -1640,7 +1640,7 @@
 	},
 	{
 		"abr": "ancientairconditioner",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientAirConditioner"
 	},
@@ -1664,7 +1664,7 @@
 	},
 	{
 		"abr": "ancientatm",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientATM"
 	},
@@ -1904,7 +1904,7 @@
 	},
 	{
 		"abr": "ancientengineblock",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientRustedEngineBlock"
 	},
@@ -1928,7 +1928,7 @@
 	},
 	{
 		"abr": "ancientfence",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientFence"
 	},
@@ -2042,7 +2042,7 @@
 	},
 	{
 		"abr": "ancientgiantwheel",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientGiantWheel"
 	},
@@ -2066,7 +2066,7 @@
 	},
 	{
 		"abr": "ancienthydrant",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientHydrant"
 	},
@@ -2096,7 +2096,7 @@
 	},
 	{
 		"abr": "ancientkitchensink",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientKitchenSink"
 	},
@@ -2126,7 +2126,7 @@
 	},
 	{
 		"abr": "ancientlargecrate",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientLargeCrate"
 	},
@@ -2156,7 +2156,7 @@
 	},
 	{
 		"abr": "ancientlongcrate",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientLongCrate"
 	},
@@ -2270,7 +2270,7 @@
 	},
 	{
 		"abr": "ancientmicrowave",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientMicrowave"
 	},
@@ -2342,7 +2342,7 @@
 	},
 	{
 		"abr": "ancientoven",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientOven"
 	},
@@ -2372,7 +2372,7 @@
 	},
 	{
 		"abr": "ancientpostbox",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientPostbox"
 	},
@@ -2420,7 +2420,7 @@
 	},
 	{
 		"abr": "ancientrefrigerator",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientRefrigerator"
 	},
@@ -2516,7 +2516,7 @@
 	},
 	{
 		"abr": "ancientshoppingcart",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientShoppingCart"
 	},
@@ -2588,7 +2588,7 @@
 	},
 	{
 		"abr": "ancientsmallcrate",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientSmallCrate"
 	},
@@ -2636,7 +2636,7 @@
 	},
 	{
 		"abr": "ancientstove",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientStove"
 	},
@@ -2696,7 +2696,7 @@
 	},
 	{
 		"abr": "ancienttoilet",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientToilet"
 	},
@@ -2726,7 +2726,7 @@
 	},
 	{
 		"abr": "ancientvendingmachine",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientVendingMachine"
 	},
@@ -2744,7 +2744,7 @@
 	},
 	{
 		"abr": "ancientwashingmachine",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientWashingMachine"
 	},
@@ -2762,7 +2762,7 @@
 	},
 	{
 		"abr": "ancientwheel",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "AncientWheel"
 	},
@@ -4844,7 +4844,7 @@
 	},
 	{
 		"abr": "astartespacemarine(har)",
-		"price": 29167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AstarteSpaceMarine"
 	},
@@ -5252,7 +5252,7 @@
 	},
 	{
 		"abr": "avian",
-		"price": 5167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Avian"
 	},
@@ -12410,7 +12410,7 @@
 	},
 	{
 		"abr": "darkeldar",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "OG_Alien_DarkEldar"
 	},
@@ -14006,7 +14006,7 @@
 	},
 	{
 		"abr": "eldar",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "OG_Alien_Eldar"
 	},
@@ -16322,7 +16322,7 @@
 	},
 	{
 		"abr": "forsaken",
-		"price": 3167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Forsaken"
 	},
@@ -18128,7 +18128,7 @@
 	},
 	{
 		"abr": "grot",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "OG_Alien_Grot"
 	},
@@ -19844,7 +19844,7 @@
 	},
 	{
 		"abr": "human(mechanicus)",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "OG_Human_Mechanicus"
 	},
@@ -22232,7 +22232,7 @@
 	},
 	{
 		"abr": "kroot",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "OG_Alien_Kroot"
 	},
@@ -24290,7 +24290,7 @@
 	},
 	{
 		"abr": "m7mechanisedinfantry",
-		"price": 30000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M7Mech"
 	},
@@ -24302,7 +24302,7 @@
 	},
 	{
 		"abr": "m8mechanisedinfantry",
-		"price": 30000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M8Mech"
 	},
@@ -28064,7 +28064,7 @@
 	},
 	{
 		"abr": "ogryn",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "OG_Abhuman_Ogryn"
 	},
@@ -28430,7 +28430,7 @@
 	},
 	{
 		"abr": "ork",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "OG_Alien_Ork"
 	},
@@ -32306,7 +32306,7 @@
 	},
 	{
 		"abr": "rabbie",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Rabbie"
 	},
@@ -32864,7 +32864,7 @@
 	},
 	{
 		"abr": "ratling",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "OG_Abhuman_Ratlin"
 	},
@@ -39200,31 +39200,31 @@
 	},
 	{
 		"abr": "t1android",
-		"price": 2333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android1Tier"
 	},
 	{
 		"abr": "t2android",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android2Tier"
 	},
 	{
 		"abr": "t3android",
-		"price": 8000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android3Tier"
 	},
 	{
 		"abr": "t4android",
-		"price": 10000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android4Tier"
 	},
 	{
 		"abr": "t5android",
-		"price": 13333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android5Tier"
 	},
@@ -39464,7 +39464,7 @@
 	},
 	{
 		"abr": "tau",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "OG_Alien_Tau"
 	},
@@ -41810,7 +41810,7 @@
 	},
 	{
 		"abr": "vespid",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "OG_Alien_Vespid"
 	},
@@ -41924,7 +41924,7 @@
 	},
 	{
 		"abr": "volcanian",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MagmaRace"
 	},
@@ -41942,7 +41942,7 @@
 	},
 	{
 		"abr": "volcaniansurvivor",
-		"price": 4583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BlueMagmaRace"
 	},
@@ -43967,7 +43967,205 @@
 		"price": 2208,
 		"category": "Ranged weapons",
 		"defname": "OGO_Gun_ZappKannon"
+	},
+	{
+		"abr": "z-composite",
+		"price": 667,
+		"category": "Raw resources",
+		"defname": "PRFZComposite"
+	},
+	{
+		"abr": "zebra",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "AEXP_Zebra"
+	},
+	{
+		"abr": "zebrameat",
+		"price": 167,
+		"category": "Meals",
+		"defname": "ZebraStyleMeat"
+	},
+	{
+		"abr": "zenitharm",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicArm_GenIV"
+	},
+	{
+		"abr": "zenithdigestivesystem",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicStomach_GenIV"
+	},
+	{
+		"abr": "zenithear",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicEar_GenIV"
+	},
+	{
+		"abr": "zenitheye",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicEye_GenIV"
+	},
+	{
+		"abr": "zenithheadshroud",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicHead_GenIV"
+	},
+	{
+		"abr": "zenithheart",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicHeart_GenIV"
+	},
+	{
+		"abr": "zenithjaw",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicJaw_GenIV"
+	},
+	{
+		"abr": "zenithkidney",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicKidney_GenIV"
+	},
+	{
+		"abr": "zenithleg",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicLeg_GenIV"
+	},
+	{
+		"abr": "zenithliver",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicLiver_GenIV"
+	},
+	{
+		"abr": "zenithlung",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicLung_GenIV"
+	},
+	{
+		"abr": "zenithneckshroud",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicNeck_GenIV"
+	},
+	{
+		"abr": "zenithneuralenchantment",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicBrain_GenIV"
+	},
+	{
+		"abr": "zenithnose",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicNose_GenIV"
+	},
+	{
+		"abr": "zenithspine",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicSpine_GenIV"
+	},
+	{
+		"abr": "zenithtorsoshroud",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicTorso_GenIV"
+	},
+	{
+		"abr": "zeushammer",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "zinc",
+		"price": 7,
+		"category": "Raw resources",
+		"defname": "CaS_Zinc"
+	},
+	{
+		"abr": "zombiejoris",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "JE_ZombieJoris"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
+	},
+	{
+		"abr": "zoologyimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "AnimalMindImplant"
+	},
+	{
+		"abr": "zoom",
+		"price": 2275,
+		"category": "Cybernetic",
+		"defname": "ANN_Zoom"
+	},
+	{
+		"abr": "zweihander",
+		"price": 717,
+		"category": "Melee weapons",
+		"defname": "MM_zweihander"
+	},
+	{
+		"abr": "달비단",
+		"price": 20,
+		"category": "Textiles",
+		"defname": "Moonsilk"
+	},
+	{
+		"abr": "생체공학래비꼬리",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "RB_BionicTail"
+	},
+	{
+		"abr": "granitechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkGranite"
+	},
+	{
+		"abr": "limestonechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkLimestone"
+	},
+	{
+		"abr": "marblechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkMarble"
+	},
+	{
+		"abr": "sandstonechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkSandstone"
+	},
+	{
+		"abr": "slatechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkSlate"
 	}
 	],
-	"total": 7364
+	"total": 7361
 }
