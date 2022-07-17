@@ -1931,7 +1931,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is uninterested in romantic entanglements.",
+      "description": "Timmy has no sexual attraction to anyone at all.",
       "stats": [
 
       ],
@@ -1946,7 +1946,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rational Romance 2 (Continued)",
+        "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
           "bisexual",
@@ -1967,7 +1967,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is romantically attracted to people regardless of gender.",
+      "description": "Timmy is romantically attracted to both men and women.",
       "stats": [
 
       ],
@@ -1981,7 +1981,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rational Romance 2 (Continued)",
+        "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
           "asexual",
@@ -2015,7 +2015,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rational Romance 2 (Continued)",
+        "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
           "asexual",
@@ -2028,134 +2028,6 @@
       },
       "defName": "Gay",
       "name": "gay",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is romantically attracted to people of the opposite gender.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "asexual",
-        "bisexual",
-        "gay"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rational Romance 2 (Continued)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "asexual",
-          "bisexual",
-          "gay"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Straight",
-      "name": "straight",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "philanderer"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rational Romance 2 (Continued)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "philanderer"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Faithful",
-      "name": "faithful",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy just cannot be trusted to stay faithful to a partner.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "faithful"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rational Romance 2 (Continued)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "faithful"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Philanderer",
-      "name": "philanderer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy prefers romantic relationships involving multiple partners to monogamous relationships. he doesn't mind if his partners romance other people, but will be less happy in a restraining, monogamous relationship.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "asexual",
-        "jealous",
-        "greedy"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rational Romance 2 (Continued)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "asexual",
-          "jealous",
-          "greedy"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Polyamorous",
-      "name": "polyamorous",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2336,234 +2208,6 @@
       },
       "defName": "VME_Elder",
       "name": "elder",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
-      "stats": [
-        "+0.10 move speed",
-        "+20% global work speed",
-        "-100% psychic sensitivity",
-        "-95% toxic sensitivity",
-        "-90% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Misc. Robots",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+0.10 move speed",
-          "+20% global work speed",
-          "-100% psychic sensitivity",
-          "-95% toxic sensitivity",
-          "-90% mental break threshold"
-        ]
-      },
-      "defName": "AIRobot_BaseTrait",
-      "name": "robot",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy dislikes children.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Children, school and learning",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ChildrenDislikesChildren",
-      "name": "dislikeschildren",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is the child of a werewolf and will first transfrom when coming of age.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Children, school and learning",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ChildrenWerewolfChild",
-      "name": "werewolf-child",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has been born in the colony.",
-      "stats": [
-        "Natural meditation focus type allowed."
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Children, school and learning",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "Natural meditation focus type allowed."
-        ]
-      },
-      "defName": "ChildrenNaturalColonyChild",
-      "name": "naturalborncolony-child",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is too young to work.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Children, school and learning",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ChildrenToYoungToWork",
-      "name": "tooyoungtowork",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy's heart has innocence. Maybe it's because you've never experienced a tough world before.\nhe will be more traumatized by violent acts such as cannibalism, organ harvesting and sight of dead bodies.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "psychopath",
-        "bloodlust",
-        "cannibal"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Babies and Children [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "psychopath",
-          "bloodlust",
-          "cannibal"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Innocent",
-      "name": "innocence",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy awakened with a new type. he is amazing at dodging, and get +5 points for melee and shooting. ",
-      "stats": [
-        "+5 melee",
-        "+5 shooting",
-        "+25.0 melee dodge chance",
-        "x20% trap spring chance"
-      ],
-      "conflicts": [
-        "nimble"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Babies and Children [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "nimble"
-        ],
-        "stats": [
-          "+5 melee",
-          "+5 shooting",
-          "+25.0 melee dodge chance",
-          "x20% trap spring chance"
-        ]
-      },
-      "defName": "Newtype",
-      "name": "newtype",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -5047,200 +4691,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy has become a renouned clockmaker. he excels at creating mechnical devices.",
-      "stats": [
-        "+2 intellectual",
-        "+4 crafting",
-        "+25% global learning factor",
-        "+5% mental break threshold"
-      ],
-      "conflicts": [
-        "alchemist",
-        "artisan",
-        "artificer"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Clockwork And Steam",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "alchemist",
-          "artisan",
-          "artificer"
-        ],
-        "stats": [
-          "+2 intellectual",
-          "+4 crafting",
-          "+25% global learning factor",
-          "+5% mental break threshold"
-        ]
-      },
-      "defName": "Clockmaker",
-      "name": "clockmaker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has become a renouned alchemist. he excels at alchemy.",
-      "stats": [
-        "+2 plants",
-        "+4 intellectual",
-        "+30% global learning factor",
-        "+15% mental break threshold"
-      ],
-      "conflicts": [
-        "clockmaker",
-        "artisan",
-        "artificer"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Clockwork And Steam",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "clockmaker",
-          "artisan",
-          "artificer"
-        ],
-        "stats": [
-          "+2 plants",
-          "+4 intellectual",
-          "+30% global learning factor",
-          "+15% mental break threshold"
-        ]
-      },
-      "defName": "Alchemist",
-      "name": "alchemist",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has become a renouned artisan. he excels at creating beautiful marvels.",
-      "stats": [
-        "+2 crafting",
-        "+4 artistic",
-        "+10% global learning factor",
-        "+15% mental break threshold"
-      ],
-      "conflicts": [
-        "alchemist",
-        "clockmaker",
-        "artificer"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Clockwork And Steam",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "alchemist",
-          "clockmaker",
-          "artificer"
-        ],
-        "stats": [
-          "+2 crafting",
-          "+4 artistic",
-          "+10% global learning factor",
-          "+15% mental break threshold"
-        ]
-      },
-      "defName": "Artisan",
-      "name": "artisan",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has become a renouned artificer. he excels at all matter of esoterica.",
-      "stats": [
-        "+2 intellectual",
-        "+2 crafting",
-        "+2 artistic",
-        "+30% global learning factor",
-        "+15% mental break threshold"
-      ],
-      "conflicts": [
-        "alchemist",
-        "clockmaker",
-        "artisan"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Clockwork And Steam",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "alchemist",
-          "clockmaker",
-          "artisan"
-        ],
-        "stats": [
-          "+2 intellectual",
-          "+2 crafting",
-          "+2 artistic",
-          "+30% global learning factor",
-          "+15% mental break threshold"
-        ]
-      },
-      "defName": "Artificer",
-      "name": "artificer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is quite the dandy. he will be unhappy without fancy clothes, but they will enjoy wearing them more than the average person.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "ascetic",
-        "nudist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Clockwork And Steam",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "ascetic",
-          "nudist"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Dandy",
-      "name": "dandy",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
       "stats": [
 
@@ -5359,74 +4809,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2
-    },
-    {
-      "description": "Timmy's reflexes are truly out of this world. They can parry melee attacks without any training and with luck even bullets.",
-      "stats": [
-        "+10.0 melee parry melee chance",
-        "+5.0 melee parry projectile chance",
-        "+10.0 melee dodge chance"
-      ],
-      "conflicts": [
-        "wimp"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Supreme Melee (Continued)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "wimp"
-        ],
-        "stats": [
-          "+10.0 melee parry melee chance",
-          "+5.0 melee parry projectile chance",
-          "+10.0 melee dodge chance"
-        ]
-      },
-      "defName": "SupremeMelee_QuickReflexes",
-      "name": "quickreflexes",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy's reflexes transcend common sense. They can easily parry melee attacks without any training and with a bit of luck even bullets.",
-      "stats": [
-        "+20.0 melee parry melee chance",
-        "+10.0 melee parry projectile chance",
-        "+20.0 melee dodge chance"
-      ],
-      "conflicts": [
-        "wimp"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Supreme Melee (Continued)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "wimp"
-        ],
-        "stats": [
-          "+20.0 melee parry melee chance",
-          "+10.0 melee parry projectile chance",
-          "+20.0 melee dodge chance"
-        ]
-      },
-      "defName": "SupremeMelee_QuickReflexes",
-      "name": "transcendentreflexes",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2
     },
     {
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
@@ -7109,42 +6491,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy spent his entire life among trees and wild animals. It definitely changed his behavior. Timmy won't be upset if he eats raw food without a table. he doesn't care about sleeping on the floor, outside or having damaged clothes, although he prefers to wear at least something.",
-      "stats": [
-        "Artistic meditation focus type disabled.",
-        "Natural meditation focus type allowed."
-      ],
-      "conflicts": [
-        "greedy",
-        "jealous",
-        "gourmand"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Elders Faction",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "greedy",
-          "jealous",
-          "gourmand"
-        ],
-        "stats": [
-          "Artistic meditation focus type disabled.",
-          "Natural meditation focus type allowed."
-        ]
-      },
-      "defName": "NatureHarmony",
-      "name": "inharmonywithnature",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy always saw their body as nothing more than a vessel for their mind. he does not care about the gender, age or looks of a body.",
       "stats": [
 
@@ -7175,29 +6521,59 @@
       "degree": 0
     },
     {
-      "description": "Timmy is more suitable to obtain the Ability to cast Powerful storms Among his enemies. Though only the Avians are Stronger while fighting under Big Storm's. The colonist's with this trait are going to comment on the upcoming weather conditions.",
+      "description": "Timmy has been blessed by the Mechanicus to be overall better than regular humans at all tasked related to research, craft and mining. he is blessed for a harsh working environment.",
       "stats": [
-
+        "+3 crafting",
+        "+3 construction",
+        "+3 mining",
+        "+25% global work speed",
+        "+130% global learning factor",
+        "+0.10 move speed",
+        "-15% mental break threshold",
+        "+20% immunity gain speed",
+        "+150 carrying capacity",
+        "+25.00% trade price improvement",
+        "+10.00% social impact",
+        "+10% construction speed"
       ],
       "conflicts": [
-
+        "imperial-astramilitarum",
+        "imperial-assassinorum",
+        "imperial-inquisition",
+        "imperial-medic",
+        "imperial-astarte"
       ],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Humanoid Project (Continued)",
+        "mod": "Astra Militarum Imperial Guard Core Mod v2.3",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "imperial-astramilitarum",
+          "imperial-assassinorum",
+          "imperial-inquisition",
+          "imperial-medic",
+          "imperial-astarte"
         ],
         "stats": [
-
+          "+3 crafting",
+          "+3 construction",
+          "+3 mining",
+          "+25% global work speed",
+          "+130% global learning factor",
+          "+0.10 move speed",
+          "-15% mental break threshold",
+          "+20% immunity gain speed",
+          "+150 carrying capacity",
+          "+25.00% trade price improvement",
+          "+10.00% social impact",
+          "+10% construction speed"
         ]
       },
-      "defName": "AvianStorm",
-      "name": "stormcaster",
+      "defName": "IGTraitMechanicus",
+      "name": "imperial-mechanicus",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -7205,29 +6581,63 @@
       "degree": 0
     },
     {
-      "description": "he Has mutated Eyes that can Adapt in Various light Conditions.",
+      "description": "Timmy has been blessed by the Emperor to be overall better than regular humans at all tasked related to combat to better serve the Emperor against Chaos. he is blessed with general combat excellence.",
       "stats": [
-
+        "+3 shooting",
+        "+3 melee",
+        "+0.3 melee dodge chance",
+        "-15% aiming time",
+        "+0.2 shooting accuracy",
+        "+15% global learning factor",
+        "+0.10 move speed",
+        "-15% mental break threshold",
+        "+15% immunity gain speed",
+        "+100 carrying capacity",
+        "+10.0% Armor - Blunt",
+        "+10.0% Armor - Sharp",
+        "-10% toxic sensitivity",
+        "x300% melee hit chance"
       ],
       "conflicts": [
-
+        "imperial-mechanicus",
+        "imperial-assassinorum",
+        "imperial-inquisition",
+        "imperial-medic",
+        "imperial-astarte"
       ],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Humanoid Project (Continued)",
+        "mod": "Astra Militarum Imperial Guard Core Mod v2.3",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "imperial-mechanicus",
+          "imperial-assassinorum",
+          "imperial-inquisition",
+          "imperial-medic",
+          "imperial-astarte"
         ],
         "stats": [
-
+          "+3 shooting",
+          "+3 melee",
+          "+0.3 melee dodge chance",
+          "-15% aiming time",
+          "+0.2 shooting accuracy",
+          "+15% global learning factor",
+          "+0.10 move speed",
+          "-15% mental break threshold",
+          "+15% immunity gain speed",
+          "+100 carrying capacity",
+          "+10.0% Armor - Blunt",
+          "+10.0% Armor - Sharp",
+          "-10% toxic sensitivity",
+          "x300% melee hit chance"
         ]
       },
-      "defName": "EyesInteractive",
-      "name": "adaptiveeyes",
+      "defName": "IGTraitAstraMilitarum",
+      "name": "imperial-astramilitarum",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -7235,10 +6645,259 @@
       "degree": 0
     },
     {
-      "description": "Timmy under went reconditioning at some point but something went wrong. The failed procedure left them with reduced brain fuction. Good thing they can be reconditioned to forget about all that.",
+      "description": "Timmy has been trained by the Officio Assassinorum to be a surgical tool to serve the Emperor against Chaos. he is blessed for combat excellence at range.",
       "stats": [
-        "x80% global learning factor",
-        "x80% move speed"
+        "+3 shooting",
+        "+3 melee",
+        "-20% aiming time",
+        "+0.2 shooting accuracy",
+        "+30% global learning factor",
+        "+0.10 move speed",
+        "-15% mental break threshold",
+        "+15% immunity gain speed",
+        "+75 carrying capacity",
+        "+15.0% Armor - Blunt",
+        "+15.0% Armor - Sharp",
+        "-15% toxic sensitivity"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-astramilitarum",
+        "imperial-inquisition",
+        "imperial-medic",
+        "imperial-astarte"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Astra Militarum Imperial Guard Core Mod v2.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "imperial-mechanicus",
+          "imperial-astramilitarum",
+          "imperial-inquisition",
+          "imperial-medic",
+          "imperial-astarte"
+        ],
+        "stats": [
+          "+3 shooting",
+          "+3 melee",
+          "-20% aiming time",
+          "+0.2 shooting accuracy",
+          "+30% global learning factor",
+          "+0.10 move speed",
+          "-15% mental break threshold",
+          "+15% immunity gain speed",
+          "+75 carrying capacity",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Sharp",
+          "-15% toxic sensitivity"
+        ]
+      },
+      "defName": "IGTraitAssassinorum",
+      "name": "imperial-assassinorum",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has been trained by the Inquisition as the secret police of the Imperium responsible for guarding the souls of humanity. he is blessed by the Inquisition with a many varied skills.",
+      "stats": [
+        "+2 shooting",
+        "+1 melee",
+        "+1 crafting",
+        "+2 medical",
+        "+10% global work speed",
+        "-10% aiming time",
+        "+0.2 shooting accuracy",
+        "+14% global learning factor",
+        "+0.30 move speed",
+        "-15% mental break threshold",
+        "+14% immunity gain speed",
+        "+75 carrying capacity",
+        "+14.0% Armor - Blunt",
+        "+14.0% Armor - Sharp",
+        "-14% toxic sensitivity",
+        "+13.00% social impact",
+        "+14% research speed",
+        "x250% melee hit chance"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-astramilitarum",
+        "imperial-assassinorum",
+        "imperial-medic",
+        "imperial-astarte"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Astra Militarum Imperial Guard Core Mod v2.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "imperial-mechanicus",
+          "imperial-astramilitarum",
+          "imperial-assassinorum",
+          "imperial-medic",
+          "imperial-astarte"
+        ],
+        "stats": [
+          "+2 shooting",
+          "+1 melee",
+          "+1 crafting",
+          "+2 medical",
+          "+10% global work speed",
+          "-10% aiming time",
+          "+0.2 shooting accuracy",
+          "+14% global learning factor",
+          "+0.30 move speed",
+          "-15% mental break threshold",
+          "+14% immunity gain speed",
+          "+75 carrying capacity",
+          "+14.0% Armor - Blunt",
+          "+14.0% Armor - Sharp",
+          "-14% toxic sensitivity",
+          "+13.00% social impact",
+          "+14% research speed",
+          "x250% melee hit chance"
+        ]
+      },
+      "defName": "IGTraitInquisition",
+      "name": "imperial-inquisition",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has been training in the arts of all medicine to help their fellow imperial citizens. he is blessed with medical excellence.",
+      "stats": [
+        "+6 medical",
+        "+15% global learning factor",
+        "+0.10 move speed",
+        "-12% mental break threshold",
+        "+13% immunity gain speed",
+        "+150 carrying capacity",
+        "-12% toxic sensitivity",
+        "+15.00% social impact"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-astramilitarum",
+        "imperial-assassinorum",
+        "imperial-inquisition",
+        "imperial-astarte"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Astra Militarum Imperial Guard Core Mod v2.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "imperial-mechanicus",
+          "imperial-astramilitarum",
+          "imperial-assassinorum",
+          "imperial-inquisition",
+          "imperial-astarte"
+        ],
+        "stats": [
+          "+6 medical",
+          "+15% global learning factor",
+          "+0.10 move speed",
+          "-12% mental break threshold",
+          "+13% immunity gain speed",
+          "+150 carrying capacity",
+          "-12% toxic sensitivity",
+          "+15.00% social impact"
+        ]
+      },
+      "defName": "IGTraitImperialMedic",
+      "name": "imperial-medic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has been blessed by the Emperor be the pinnacle of Human Warfare as one of his Chosen Astarte in the fight against Chaos. he is blessed with the Astarte Trait.",
+      "stats": [
+        "+5 shooting",
+        "+5 melee",
+        "+0.1 melee dodge chance",
+        "-20% aiming time",
+        "+0.2 shooting accuracy",
+        "+0.15 move speed",
+        "-20% mental break threshold",
+        "+25% immunity gain speed",
+        "+200 carrying capacity",
+        "+20.0% Armor - Blunt",
+        "+20.0% Armor - Sharp",
+        "-20% toxic sensitivity",
+        "x70% max hit points"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-assassinorum",
+        "imperial-inquisition",
+        "imperial-medic",
+        "imperial-astramilitarum"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Astra Militarum Imperial Guard Core Mod v2.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "imperial-mechanicus",
+          "imperial-assassinorum",
+          "imperial-inquisition",
+          "imperial-medic",
+          "imperial-astramilitarum"
+        ],
+        "stats": [
+          "+5 shooting",
+          "+5 melee",
+          "+0.1 melee dodge chance",
+          "-20% aiming time",
+          "+0.2 shooting accuracy",
+          "+0.15 move speed",
+          "-20% mental break threshold",
+          "+25% immunity gain speed",
+          "+200 carrying capacity",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "-20% toxic sensitivity",
+          "x70% max hit points"
+        ]
+      },
+      "defName": "IG_TraitAstarte",
+      "name": "imperial-astarte",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
+      "stats": [
+        "+0.10 move speed",
+        "+20% global work speed",
+        "-100% psychic sensitivity",
+        "-95% toxic sensitivity",
+        "-90% mental break threshold"
       ],
       "conflicts": [
 
@@ -7248,18 +6907,273 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[PS] Reconditioning Pod (Continued)",
+        "mod": "Misc. Robots",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "x80% global learning factor",
-          "x80% move speed"
+          "+0.10 move speed",
+          "+20% global work speed",
+          "-100% psychic sensitivity",
+          "-95% toxic sensitivity",
+          "-90% mental break threshold"
         ]
       },
-      "defName": "PS_Trait_BotchedConditioning",
-      "name": "botchedconditioning",
+      "defName": "AIRobot_BaseTrait",
+      "name": "robot",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy hates fire. he will refuse to get close to fire to put it out.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "pyromaniac"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Cactaceae (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "pyromaniac"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "CactoidPyrophobia",
+      "name": "pyrophobia",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has Solid exoskeleton, he takes much less damage than other Anties from the same blows.",
+      "stats": [
+        "x70% incoming damage multiplier",
+        "x112% leather amount",
+        "x0% flammability"
+      ],
+      "conflicts": [
+        "tough",
+        "bloodlust",
+        "psychopath",
+        "cannibal",
+        "undergrounder",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anty the war ant race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "tough",
+          "bloodlust",
+          "psychopath",
+          "cannibal",
+          "undergrounder",
+          "wimp"
+        ],
+        "stats": [
+          "x70% incoming damage multiplier",
+          "x112% leather amount",
+          "x0% flammability"
+        ]
+      },
+      "defName": "AT_Solidexoskeleton",
+      "name": "solidexoskeleton",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
+      "stats": [
+        "+10% pain shock threshold",
+        "-15% mental break threshold"
+      ],
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "NewRatkinPlus",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "carefulshooter",
+          "trigger-happy",
+          "wimp"
+        ],
+        "stats": [
+          "+10% pain shock threshold",
+          "-15% mental break threshold"
+        ]
+      },
+      "defName": "Faith",
+      "name": "faith",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Some Oni exude an aura of calm that makes them more approachable by people and animals alike.",
+      "stats": [
+        "Natural meditation focus type allowed.",
+        "+2 social",
+        "+2 animals",
+        "+1 medical",
+        "+2 plants",
+        "-4% mental break threshold",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+15.00% social impact",
+        "+15.00% negotiation ability",
+        "+10.00% trade price improvement"
+      ],
+      "conflicts": [
+        "torturedartist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Oni of the Rim",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "torturedartist"
+        ],
+        "stats": [
+          "Natural meditation focus type allowed.",
+          "+2 social",
+          "+2 animals",
+          "+1 medical",
+          "+2 plants",
+          "-4% mental break threshold",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+15.00% social impact",
+          "+15.00% negotiation ability",
+          "+10.00% trade price improvement"
+        ]
+      },
+      "defName": "Natures_blessing",
+      "name": "naturesblessing",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a biotic god.",
+      "stats": [
+        "x50 biotic energy limit",
+        "x50 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x50 biotic energy limit",
+          "x50 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticGod",
+      "name": "bioticgod",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy’s biotic capabilities are significantly dampened by past trauma, or simply the lack of predisposition.",
+      "stats": [
+        "-0.8 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-0.8 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallydeaf",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy has not yet unlocked their full biotic potential, and most likely never will.",
+      "stats": [
+        "-0.5 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-0.5 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallydull",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -7267,10 +7181,9 @@
       "degree": -1
     },
     {
-      "description": "Timmy under went reconditioning at some point but something went wrong, in a good way. What ever happened seemed to have positive effects on they, improveing brain functions. Guess this is just one of those happy accidents.",
+      "description": "Timmy’s biotic skills are greatly above average, allowing them to use the power without any fear of migraines or discomfort.",
       "stats": [
-        "x120% global learning factor",
-        "x120% move speed"
+        "+0.5 biotic energy recovery rate"
       ],
       "conflicts": [
 
@@ -7280,23 +7193,270 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[PS] Reconditioning Pod (Continued)",
+        "mod": "Rim-Effect: Core",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "x120% global learning factor",
-          "x120% move speed"
+          "+0.5 biotic energy recovery rate"
         ]
       },
-      "defName": "PS_Trait_BotchedConditioning",
-      "name": "luckybotchedconditioning",
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallyskilled",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1
+    },
+    {
+      "description": "Timmy’s biotic skills are known far and wide across the galaxy due to their talent and rare predisposition.",
+      "stats": [
+        "+2 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallytalented",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a security variant, it features higher armour compared to other variants.",
+      "stats": [
+        "+30.0% Armor - Sharp",
+        "+20.0% Armor - Blunt"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+30.0% Armor - Sharp",
+          "+20.0% Armor - Blunt"
+        ]
+      },
+      "defName": "RSTraitSecurity",
+      "name": "securitymodel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a forest variant, it features higher melee skills and higher movement in forests compared to other variants.",
+      "stats": [
+        "+15.0 melee dodge chance",
+        "+5.0 melee hit chance",
+        "+1.00 move speed",
+        "x80% melee cooldown"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15.0 melee dodge chance",
+          "+5.0 melee hit chance",
+          "+1.00 move speed",
+          "x80% melee cooldown"
+        ]
+      },
+      "defName": "RSTraitForest",
+      "name": "forestmodel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a winter variant, it features higher accuracy and higher movement in snowy terrain compared to other variants.",
+      "stats": [
+        "+5.0 shooting accuracy"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5.0 shooting accuracy"
+        ]
+      },
+      "defName": "RSTraitWinter",
+      "name": "wintermodel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a desert variant, it features faster aiming time and higher movement in sandy terrain compared to other variants.",
+      "stats": [
+        "-50% aiming time"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% aiming time"
+        ]
+      },
+      "defName": "RSTraitDesert",
+      "name": "desertmodel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy Todo. he Todo",
+      "stats": [
+        "-35% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-35% mental break threshold"
+        ]
+      },
+      "defName": "RSTraitRobot",
+      "name": "robot",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy Todo. he Todo",
+      "stats": [
+        "x130% market value"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x130% market value"
+        ]
+      },
+      "defName": "RSTraitValuable",
+      "name": "valuable",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Everything Timmy cooks turns into Dark matter.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kijin Race 2.0",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "IncompetentCook",
+      "name": "incompetentcook",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -7657,69 +7817,6 @@
       "enabled": true,
       "name": "hologram",
       "price": 1
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+$3100 Market value",
-          "+6.00 Move speed",
-          "+9.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+70 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Avians are one of the most Powerful creatures that ever walked on the face of any planet. There are stories that they are originated in different plane of reality, some say they are demons. Because they haven't connected to the Humanity and are following a strict \"Slaughter Order\". The First Contact with Humans was Extremely violent. Planet RimWorld August 16 (Era Of Volcanian Empire Year 3450CF) a group of Avian raiders attacked the Solar System, killing more then 780.000 people. Unusually, The Avians looted almost everything. Since these events, Avians raided the systems of (Gamma-B56 Home of Volcanian Empire), which lead to a Extremely fast growth of Avian Empire. Avians  are called Storm Caster's. They can do unbelievable things with Weather. It's know that Extreme Weather Conditions enhance their Abilities. It is still unknown how they Mastered those Powers.\n\n<i><color=#66E0E4FF>Humanoid Project (Continued)</color></i>",
-      "defName": "Avian",
-      "enabled": true,
-      "name": "Avian",
-      "price": 5167
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$2500 Market value",
-          "+5.00 Move speed",
-          "-27.0F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
-          "+45 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The descendants of the Blue-Volcanian-Race. They haven't seen much Conflicts neither they Suffered the Hunger. The Volcanian's descendants are the traders, the Culture-Hounds of the universe. They Mastered the Art of Trading and Mining. Though this doesn't mean that they are not capable to Survive a direct Conflict. The Volcanian's can pull together a formidable fighting force if needed, but they do not have a dedicated standing army. Instead, the Volcanian Militia keeps the peace on a day-to-day basis within their Factions.\n\n<i><color=#66E0E4FF>Humanoid Project (Continued)</color></i>",
-      "defName": "MagmaRace",
-      "enabled": true,
-      "name": "Volcanian",
-      "price": 4167
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$2750 Market value",
-          "+5.00 Move speed",
-          "-27.0F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
-          "+45 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Not much is known about the history of this strange Race. It is known that they once lived on a Vulcanian world named Planet-Mora and that they were not always at the top of the food chain or neither the Power. At some point in time they abandoned their home world in search for a Better home, though it's know that was not the Real Reason... Their history is marked by Extreme conflicts around all Universe - Their Capacity to Survive Extreme Temperatures and an Extremely tough Skin composition made them almost Bullet Proof to any Weapon. Until.. until they Invaded a Mysterious System (Turon-96) Home of the Avian-Empire. It was too late until they Realized is was a Big Mistake. Their Dark-Energy weapons slaughtered more then Half of the Vulcanian's. Who survived that Day tells stories of their Mysterious Abilities and the Powerful Lightning Storm's they Casted on their Enemy's. Nowadays there are few Left of this Spices, but all of them Still bring anger about what happened in the past.\n\n<i><color=#66E0E4FF>Humanoid Project (Continued)</color></i>",
-      "defName": "BlueMagmaRace",
-      "enabled": true,
-      "name": "Volcanian Survivor",
-      "price": 4583
     },
     {
       "data": {
@@ -8088,6 +8185,1308 @@
       "enabled": true,
       "name": "Dark Eldar",
       "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.00 Move speed",
+          "+7.2F Minimum comfortable temperature",
+          "+57.6F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+85% Psychic sensitivity",
+          "+200% Research speed",
+          "+300% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A strange and mysterious reptilian race, known for their connection to an even more mysterious tree called the Hist.\n\n<i><color=#66E0E4FF>Argonians of Blackmarsh (Continued)</color></i>",
+      "defName": "Alien_Argonian",
+      "enabled": true,
+      "name": "Argonian",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+110% Flammability",
+          "+$1500 Market value",
+          "+4.25 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+10 Leather amount",
+          "+50% Psychic sensitivity",
+          "+125% Plant work speed",
+          "+80% Research speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hardy human-cactus hybrid species able to live in harse conditions.\n\n<i><color=#66E0E4FF>Cactaceae (Continued)</color></i>",
+      "defName": "Alien_Cactoid",
+      "enabled": true,
+      "name": "cactoid",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$5800 Market value",
+          "+5.20 Move speed",
+          "-81.0F Minimum comfortable temperature",
+          "+81.0F Maximum comfortable temperature",
+          "+150% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+50.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+20.0% Armor - Heat",
+          "+60% Toxic sensitivity",
+          "+110% Eating speed",
+          "+45 Meat amount",
+          "+80% Plant work speed",
+          "+120% Plant harvest yield",
+          "+75 Leather amount",
+          "+80% Mining speed",
+          "+120% Mining yield",
+          "+1.0 Melee dodge chance",
+          "+125% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Race</color></i>",
+      "defName": "Dragonian_Male",
+      "enabled": true,
+      "name": "Dragonian",
+      "price": 9667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$5800 Market value",
+          "+5.20 Move speed",
+          "-81.0F Minimum comfortable temperature",
+          "+81.0F Maximum comfortable temperature",
+          "+150% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+40.0% Armor - Sharp",
+          "+30.0% Armor - Blunt",
+          "+40.0% Armor - Heat",
+          "+60% Toxic sensitivity",
+          "+110% Eating speed",
+          "+45 Meat amount",
+          "+80% Plant work speed",
+          "+120% Plant harvest yield",
+          "+75 Leather amount",
+          "+80% Mining speed",
+          "+120% Mining yield",
+          "+1.0 Melee dodge chance",
+          "+125% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Race</color></i>",
+      "defName": "Dragonian_Female",
+      "enabled": true,
+      "name": "Dragonian",
+      "price": 9667
+    },
+    {
+      "data": {
+        "stats": [
+          "+0% Toxic sensitivity",
+          "-2.0 Beauty",
+          "+$1000 Market value",
+          "+4.20 Move speed",
+          "+200% Flammability",
+          "+200% Immunity gain speed",
+          "+65 Carrying capacity",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+43.2F Minimum comfortable temperature",
+          "+45.0F Maximum comfortable temperature",
+          "+100% Pain shock threshold",
+          "+67% Hunger rate multiplier",
+          "+50.00 Mass",
+          "+100% Eating speed",
+          "+100% Global work speed",
+          "+25 Meat amount",
+          "+100% Research speed",
+          "+100% Plant work speed",
+          "+35 Leather amount",
+          "+100% Global learning factor",
+          "+100.00% Negotiation ability",
+          "+100.00% Trade price improvement",
+          "+100.00% Social impact",
+          "+100% Hunting stealth",
+          "+1.0 Cooking speed",
+          "+100% Butchery speed",
+          "+100% Butchery efficiency",
+          "+100% Drug cooking speed",
+          "+100% Smelting speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+100% Psychic sensitivity",
+          "+100.00% Train animal chance",
+          "+100.00% Tame animal chance",
+          "+100% Smoothing speed",
+          "+100% Animal gather speed",
+          "+100% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A non feral ghoul, is a decrepit, rotting, zombie-like mutant. Intense and prolonged radiation has ravaged their skin, much of their flesh and in some cases many of their ligaments.\n\n<i><color=#66E0E4FF>Fallout Races: Playable Ghoul (Continued)</color></i>",
+      "defName": "Ghoul",
+      "enabled": true,
+      "name": "ghoul",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+0% Toxic sensitivity",
+          "-2.0 Beauty",
+          "+$1000 Market value",
+          "+4.20 Move speed",
+          "+200% Flammability",
+          "+200% Immunity gain speed",
+          "+65 Carrying capacity",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+43.2F Minimum comfortable temperature",
+          "+45.0F Maximum comfortable temperature",
+          "+100% Pain shock threshold",
+          "+67% Hunger rate multiplier",
+          "+50.00 Mass",
+          "+100% Eating speed",
+          "+100% Global work speed",
+          "+25 Meat amount",
+          "+100% Research speed",
+          "+100% Plant work speed",
+          "+35 Leather amount",
+          "+100% Global learning factor",
+          "+100.00% Negotiation ability",
+          "+100.00% Trade price improvement",
+          "+100.00% Social impact",
+          "+100% Hunting stealth",
+          "+1.0 Cooking speed",
+          "+100% Butchery speed",
+          "+100% Butchery efficiency",
+          "+100% Drug cooking speed",
+          "+100% Smelting speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+100% Psychic sensitivity",
+          "+100.00% Train animal chance",
+          "+100.00% Tame animal chance",
+          "+100% Smoothing speed",
+          "+100% Animal gather speed",
+          "+100% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A non feral glowing ghoul, is a decrepit, rotting, zombie-like mutant. Intense and prolonged radiation has ravaged their skin, much of their flesh and in some cases many of their ligaments. It emits a powerful glow capable of growing plants.\n\n<i><color=#66E0E4FF>Fallout Races: Playable Ghoul (Continued)</color></i>",
+      "defName": "GlowingGhoul",
+      "enabled": true,
+      "name": "glowing one",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+6.62 Move speed",
+          "+10.8F Minimum comfortable temperature",
+          "+50.4F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+85% Psychic sensitivity",
+          "+120% Mining speed",
+          "+110% Construction speed",
+          "+110% Research speed",
+          "+110% Animal gather speed",
+          "+110% Animal gather yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A curious Ferret race, known for their business acumen.\n\n<i><color=#66E0E4FF>Ferrex Race (Continued)</color></i>",
+      "defName": "Alien_Ferrex",
+      "enabled": true,
+      "name": "Ferrex",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+$5000 Market value",
+          "+5.50 Move speed",
+          "-54.0F Minimum comfortable temperature",
+          "+27.0F Maximum comfortable temperature",
+          "+2.00 Melee DPS",
+          "+60 Leather amount",
+          "+90.00% Negotiation ability",
+          "+100.00% Trade price improvement",
+          "+105.00% Social impact",
+          "+0.7 Cooking speed",
+          "+30% Butchery speed",
+          "+150% Immunity gain speed",
+          "+70% Drug cooking speed",
+          "+70% Research speed",
+          "+100% General labor speed",
+          "+70% Medical tend speed",
+          "+120% Psychic sensitivity",
+          "+115.00% Train animal chance",
+          "+115.00% Tame animal chance",
+          "+120% Animal gather speed",
+          "-0.5 Melee dodge chance",
+          "+50% Hunting stealth",
+          "+120% Hunger rate multiplier",
+          "+120% Smoothing speed",
+          "+130% Mining speed",
+          "+5 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A fairly primitive race, the Gerzee mostly spend their lives foraging for plants, running from large predators, and socializing with the family that have not yet been eaten by those large predators. Though the Gerzee tower in size over most humanoid species, being a fairly small and herbivorous prey species on their home planet means they’ve evolved to run at the first sign of danger. This timid nature and their comparative strength have made them attractive stock for space slavers, and so the Gerzee have just started to be introduced to modern technologies as they deal with these foreign attacks.\n\nWith their four eyes on top of their flat head, bulky bodies, and large arms, most humanoid equipment simply doesn’t fit the Gerzee physique. They’re only able to squeeze into some loose or adjustable clothing (e.g. parkas, dusters, masks, flak gear), handle some of the “larger” melee weapons (e.g. spears, horns, swords), and use ranged weapons that don’t require “normal-sized” fingers to pull the trigger (i.e. a minigun).\n\n\t\t\t\t\n\nAnother technology that surprisingly doesn’t work for the Gerzee is the act of cooking food. However, it’s unclear as to why cooking plants makes them inedible for the Gerzee biology, since slavers don’t mind feeding them cheap hay and glitterworlds have not been interested in researching the answer for such a primitive species.\n\n<i><color=#66E0E4FF>Gerzee Race</color></i>",
+      "defName": "GerzeeRace",
+      "enabled": true,
+      "name": "Gerzee",
+      "price": 8333
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+30% Flammability",
+          "+$3500 Market value",
+          "+5.00 Move speed",
+          "+40% Mental break threshold",
+          "+75.6F Maximum comfortable temperature",
+          "+18.0F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+70 Carrying capacity",
+          "+55 Meat amount",
+          "+55 Leather amount",
+          "+80% Pain shock threshold",
+          "+130.00% Negotiation ability",
+          "+120% Sell price multiplier",
+          "+120.00% Social impact",
+          "+110% Mechanoid shredding efficiency",
+          "+110% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+90% Research speed",
+          "+70% Mining speed",
+          "+105% Butchery efficiency",
+          "+90% Butchery speed",
+          "+80.00% Food poison chance",
+          "+1.1 Cooking speed",
+          "+110% Rest rate multiplier",
+          "+80% Plant work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.\n\n<i><color=#66E0E4FF>Kurin HAR Edition</color></i>",
+      "defName": "Kurin_Race",
+      "enabled": true,
+      "name": "Kurin",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.08 Move speed",
+          "+10.8F Minimum comfortable temperature",
+          "+50.4F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+85% Psychic sensitivity",
+          "+120% Mining speed",
+          "+110% Construction speed",
+          "+110% Research speed",
+          "+110% Animal gather speed",
+          "+110% Animal gather yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A robust race of fighters, the Logann boast an uncanny regeneration factor.\n\n<i><color=#66E0E4FF>Logann Race (Continued)</color></i>",
+      "defName": "Alien_Wolvx",
+      "enabled": true,
+      "name": "Logann",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+$3000 Market value",
+          "+4.15 Move speed",
+          "+320.00 Mass",
+          "+900.0F Maximum comfortable temperature",
+          "-144.0F Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+250% Hunger rate multiplier",
+          "+100% Eating speed",
+          "+110 Carrying capacity",
+          "+60 Meat amount",
+          "+30 Leather amount",
+          "+99% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+1% Mental break threshold",
+          "+0% Toxic sensitivity",
+          "+0% Flammability",
+          "+1.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+0.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+10.00% Social impact",
+          "+0.00% Trade price improvement",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Construction speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Plant work speed",
+          "+150% Global learning factor",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+110% Immunity gain speed",
+          "+400% Mining speed",
+          "+50% Mining yield",
+          "+45.0% Armor - Blunt",
+          "+135.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\nDreadnaughts are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with low-angle intercepting systems. Unlike low-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the dreadnaughts are seen on the battlefront, it means child's play is over.\n\n<i><color=#66E0E4FF>Anty the war ant race</color></i>",
+      "defName": "AT_dreadnought",
+      "enabled": true,
+      "name": "Anty Dreadnought",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+200% Flammability",
+          "+$800 Market value",
+          "+5.00 Move speed",
+          "+50.4F Maximum comfortable temperature",
+          "+34.2F Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+100% Hunger rate multiplier",
+          "+100% Eating speed",
+          "+110 Carrying capacity",
+          "+20 Meat amount",
+          "+40 Leather amount",
+          "+90% Pain shock threshold",
+          "+50% Psychic sensitivity",
+          "+40% Mental break threshold",
+          "+300% Toxic sensitivity",
+          "+0.8 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+0.8 Shooting accuracy",
+          "+0.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+10.00% Social impact",
+          "+0.00% Trade price improvement",
+          "+120% Mechanoid shredding efficiency",
+          "+120% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+125% Construction speed",
+          "+120% Butchery efficiency",
+          "+120% Butchery speed",
+          "+100.00% Food poison chance",
+          "+0.3 Cooking speed",
+          "+100% Plant work speed",
+          "+110% Global learning factor",
+          "+100% Research speed",
+          "+80% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+110% Medical surgery success chance",
+          "+100% Immunity gain speed",
+          "+200% Mining speed",
+          "+80% Mining yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Anties are genetically engineered beings by a private company to replace dying soldiers on the battle field.\n\nEverything has gone south when the company has let their guard down to celebrate their recent progress. Due to a mistake made by one of the employees, the Anties have been set free from the lab and ended up in space.\n\nTheir personalities are gentle by nature, but they were made to know only but war. On each planet they end up, they burn everything down to ash, using themselves as the main source of the fuel.\n\nAnty is hermaphrodite, has no externally exposed reproductive organs, but has both a scrotum and ovaries in the abdomen.\n\nAnty's gender is indicated based on her reproductive system, which was a little more developed prior to consuming the Nutritional jelly.\n\nThe average height of common anty ergates and queen ants is 140cm, while soldier ants are 170cm. Depending on needs or the type of hive, it can transform or grow up to 200cm.\n\n<i><color=#66E0E4FF>Anty the war ant race</color></i>",
+      "defName": "Anty",
+      "enabled": true,
+      "name": "Anty",
+      "price": 1333
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+50% Flammability",
+          "+$3200 Market value",
+          "+4.00 Move speed",
+          "+32.4F Maximum comfortable temperature",
+          "+3.6F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+120% Psychic sensitivity",
+          "+0.8 Melee dodge chance",
+          "+100.00% Social impact",
+          "+85% General labor speed",
+          "+130% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+115% Medical tend quality",
+          "+115% Medical surgery success chance",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.\n\n<i><color=#66E0E4FF>Moyo-From the depth</color></i>",
+      "defName": "Alien_Moyo",
+      "enabled": true,
+      "name": "Moyo",
+      "price": 5333
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+35% Flammability",
+          "+$3200 Market value",
+          "+2 Honor value",
+          "+4.50 Move speed",
+          "+54.0F Maximum comfortable temperature",
+          "+18.0F Minimum comfortable temperature",
+          "+120% Injury healing factor",
+          "+120% Rest rate multiplier",
+          "+120% Hunger rate multiplier",
+          "+200% Eating speed",
+          "+80.00% Food poison chance",
+          "+135% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+100 Meat amount",
+          "+60 Leather amount",
+          "+5% Psychic sensitivity",
+          "+0.9 Melee dodge chance",
+          "+55.00% Social impact",
+          "+115% General labor speed",
+          "+100% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+75% Aiming time"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A subspecies of the Moyo race, usually babies born after a Moyo is fertilized by a creature infected with the deep-sea virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.\n\n<i><color=#66E0E4FF>Moyo-Light in the Abyss</color></i>",
+      "defName": "Alien_RedMoyo",
+      "enabled": true,
+      "name": "Red Moyo",
+      "price": 5333
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+55.8F Maximum comfortable temperature",
+          "+10.8F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+90% Toxic sensitivity",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+85.00% Negotiation ability",
+          "+107.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
+      "defName": "Ratkin",
+      "enabled": true,
+      "name": "Ratkin",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+55.8F Maximum comfortable temperature",
+          "+10.8F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+80% Toxic sensitivity",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+75.00% Negotiation ability",
+          "+95.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed",
+          "+85% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
+      "defName": "Ratkin_Su",
+      "enabled": true,
+      "name": "Ratkin subject",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+275% Flammability",
+          "+$3600 Market value",
+          "+6.24 Move speed",
+          "+3.6F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+4 Honor value",
+          "+120.00% Social impact",
+          "+120% Animal gather speed",
+          "+110% Animal gather yield",
+          "+115.00% Train animal chance",
+          "+115.00% Tame animal chance",
+          "+125% Hunting stealth",
+          "+110% Immunity gain speed",
+          "+150.00% Food poison chance",
+          "+70% Research speed",
+          "+90% Construct success chance",
+          "+90% Repair success chance",
+          "+95% General labor speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The mysterious horned and feathered humanoid found on some rim worlds, Oni are often sought out by Glitterworlds for their beauty as a sort of exotic pet. Worse still some are kept as livestock for their feathers, pelts and horns, all having pratical and decorative uses. Oni live in temperate areas and rarely employ clothing due to the uncomfortable sensation on their feathered bodies.\n\n<i><color=#66E0E4FF>Oni of the Rim</color></i>",
+      "defName": "AOni",
+      "enabled": true,
+      "name": "Oni",
+      "price": 6000
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+275% Flammability",
+          "+$5600 Market value",
+          "+7.14 Move speed",
+          "-54.0F Minimum comfortable temperature",
+          "+90.0F Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+5 Honor value",
+          "+85.00% Social impact",
+          "+85.00% Negotiation ability",
+          "+85.00% Trade price improvement",
+          "+140% Animal gather speed",
+          "+110% Animal gather yield",
+          "+150.00% Train animal chance",
+          "+150.00% Tame animal chance",
+          "+125% Hunting stealth",
+          "+115% Immunity gain speed",
+          "+444.00% Food poison chance",
+          "+30% Research speed",
+          "+80% Construct success chance",
+          "+80% Repair success chance",
+          "+90% General labor speed",
+          "+90% Global learning factor",
+          "+120% Butchery efficiency",
+          "+120% Butchery speed",
+          "+120% Mining speed",
+          "+90% Mining yield",
+          "+115% Plant work speed",
+          "+90% Medical surgery success chance",
+          "+90% Medical tend quality",
+          "+200% Eating speed",
+          "+30.0% Armor - Blunt",
+          "+45.0% Armor - Sharp",
+          "+20% Mental break threshold"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The ancient ancestors of the current Oni that can be found on some rim worlds. They have been mysteriously appearing with no traceable origins, but their descendant race welcomes them into their tribes without question.\n\n<i><color=#66E0E4FF>Oni of the Rim</color></i>",
+      "defName": "Alien_AncestralAOni",
+      "enabled": true,
+      "name": "Ancestral Oni",
+      "price": 9333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+7.85 Move speed",
+          "-108.0F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+120% Research speed",
+          "+95% Mining speed",
+          "+120.00% Social impact",
+          "+1.3 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline orassan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Orassia planets. A mammalian humanoid feline race. Evolving in cold caves and life on space ships make it so they don't mind the dark or being inside for long periods of time.\n\n<i><color=#66E0E4FF>Orassans</color></i>",
+      "defName": "Alien_Orassan",
+      "enabled": true,
+      "name": "orassan",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+6.23 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+110% Research speed",
+          "+98% Mining speed",
+          "+125.00% Social impact",
+          "+1.2 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hybrid with DNA from a human and an orassan. Typically created through careful genetic engineering in a lab, or the \"natural\" way from individuals with closely regulated gene mods, these hybrids combine some of the best traits from their parent species. The particular traits and physical characteristics that are being inherited are typically chosen by the parents having the child, but they almost always have two feline ears and a feline tail, both with fur sharing the same color as the hair on their head.\n\n<i><color=#66E0E4FF>Orassans</color></i>",
+      "defName": "Alien_OrassanHumanHybrid",
+      "enabled": true,
+      "name": "neko",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+0 Honor value",
+          "+68.4F Maximum comfortable temperature",
+          "+7.2F Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+100% Hunger rate multiplier",
+          "+100% Eating speed",
+          "+0% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+99% Pain shock threshold",
+          "+20% Toxic sensitivity",
+          "+60% Psychic sensitivity",
+          "+0% Global learning factor",
+          "+0.00% Food poison chance",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+80.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Social impact",
+          "+30% Mental break threshold",
+          "+100% Global work speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical operation speed",
+          "+100% Medical surgery success chance",
+          "+100% Construction speed",
+          "+10% Research speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This pawn is automaton designed by PnL Industry.\n\n<i><color=#66E0E4FF>Paniel the Automata</color></i>",
+      "defName": "Paniel_Race",
+      "enabled": true,
+      "name": "Paniel",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+4.50 Move speed",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+50.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$2800 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Standard Security variant of the Defender, mostly commonly found on starships to urban military installations. It features higher armour.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperDefender",
+      "enabled": true,
+      "name": "Peacekeeper Defender",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+4.50 Move speed",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+50.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$2800 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Forest variant of the Defender. It features higher melee skills and agility and has a movement bonus on forest terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperDefenderForest",
+      "enabled": true,
+      "name": "Peacekeeper Defender Forest",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+4.50 Move speed",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+50.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$2800 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Desert variant of the Defender. It features higher rate of fire and has a movement bonus on desert terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperDefenderDesert",
+      "enabled": true,
+      "name": "Peacekeeper Defender Desert",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+4.50 Move speed",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+50.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$2800 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Winter variant of the Defender. It features higher accuracy and has a movement bonus on snowy terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperDefenderWinter",
+      "enabled": true,
+      "name": "Peacekeeper Defender Winter",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+5.50 Move speed",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+80.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$4750 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Standard Security variant of the Enforcer, a common sight on war torn planets and are fielded by massive private and planetary armies. It features higher armour.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperEnforcer",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer",
+      "price": 7917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+5.50 Move speed",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+80.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$4750 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Forest variant of the Enforcer. It features higher melee skills and agility and has a movement bonus on forest terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperEnforcerForest",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer Forest",
+      "price": 7917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+5.50 Move speed",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+80.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$4750 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Desert variant of the Enforcer. It features higher rate of fire and has a movement bonus on desert terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperEnforcerDesert",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer Desert",
+      "price": 7917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+5.50 Move speed",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+80.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$4750 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Winter variant of the Enforcer. It features higher accuracy and has a movement bonus on snowy terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperEnforcerWinter",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer Winter",
+      "price": 7917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.00 Move speed",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+135.0% Armor - Blunt",
+          "+155.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$14000 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Standard Security variant of the Sentinel, they are often found in few numbers supporting the vast armies of Defenders and Enforcers in an ongoing conflict. It features higher armour.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperSentinel",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel",
+      "price": 23333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.00 Move speed",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+135.0% Armor - Blunt",
+          "+155.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$14000 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Forest variant of the Sentinel. It features higher melee skills and agility and has a movement bonus on forest terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperSentinelForest",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel Forest",
+      "price": 23333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.00 Move speed",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+135.0% Armor - Blunt",
+          "+155.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$14000 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Desert variant of the Sentinel. It features higher rate of fire and has a movement bonus on desert terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperSentinelDesert",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel Desert",
+      "price": 23333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.00 Move speed",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+135.0% Armor - Blunt",
+          "+155.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$14000 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Winter variant of the Sentinel. It features higher accuracy and has a movement bonus on snowy terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperSentinelWinter",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel Winter",
+      "price": 23333
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.02 Move speed",
+          "+14.4F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+85% Psychic sensitivity",
+          "+120% Mining speed",
+          "+110% Construction speed",
+          "+110% Animal gather speed",
+          "+110% Animal gather yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A curious Fennex race, known for their obsession with information and love for dry climates.\n\n<i><color=#66E0E4FF>Vulpine Race Pack (Continued)</color></i>",
+      "defName": "Alien_Fennex",
+      "enabled": true,
+      "name": "Fennex",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.92 Move speed",
+          "-9.0F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+85% Psychic sensitivity",
+          "+120% Mining speed",
+          "+110% Construction speed",
+          "+110% Animal gather speed",
+          "+110% Animal gather yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A curious Fox race, known for their obsession with information and resistance to cold.\n\n<i><color=#66E0E4FF>Vulpine Race Pack (Continued)</color></i>",
+      "defName": "Alien_Frijjid",
+      "enabled": true,
+      "name": "Frijjid",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+0% Flammability",
+          "+$1500 Market value",
+          "+4.20 Move speed",
+          "-491.4F Minimum comfortable temperature",
+          "+3600.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+80% Global work speed",
+          "+0% Toxic sensitivity",
+          "+100% Pain shock threshold",
+          "+0% Hunger rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Although died some time ago, now resurrected and wandering around for an unknown reason.\n\n<i><color=#66E0E4FF>Wa! Skeleton! (Continued)</color></i>",
+      "defName": "DRSKT_Race",
+      "enabled": true,
+      "name": "Skeleton",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+35.00 Mass",
+          "+0% Flammability",
+          "+$1300 Market value",
+          "+4.20 Move speed",
+          "-491.4F Minimum comfortable temperature",
+          "+3600.0F Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+90% Global work speed",
+          "+0% Toxic sensitivity",
+          "+100% Pain shock threshold",
+          "+0% Hunger rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Not yet a skeleton, something woke it up too early. Its mind is fuzzy but its will is strong.\n\n<i><color=#66E0E4FF>Wa! Skeleton! (Continued)</color></i>",
+      "defName": "DRSKT_Race_Zombie",
+      "enabled": true,
+      "name": "Zombie",
+      "price": 2167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+20% Flammability",
+          "+$1500 Market value",
+          "+120% Immunity gain speed",
+          "+5.00 Move speed",
+          "+200% Hunger rate multiplier",
+          "+200% Eating speed",
+          "+2.0 Cooking speed",
+          "+81.0F Maximum comfortable temperature",
+          "+150 Carrying capacity",
+          "+10.0 Melee dodge chance",
+          "+150% Global work speed",
+          "+3 Honor value",
+          "+50 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Kijins are ogres who were evolved alikes of humans. Their huge bodies and muscles have shrunk, but the muscles are more dense and stronger. They still have to eat a lot to keep themselves up.\n\n<i><color=#66E0E4FF>Kijin Race 2.0</color></i>",
+      "defName": "Alien_Kijin",
+      "enabled": true,
+      "name": "Kijin",
+      "price": 2500
     }
   ]
 }
