@@ -46062,6 +46062,612 @@
 		"category": "Animal",
 		"defname": "VFE_Mech_Advanced_Daggersnout"
 	},
+	{
+		"abr": "squigmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_OG_Squig_Ork"
+	},
+	{
+		"abr": "incinerator",
+		"price": 1500,
+		"category": "Animal",
+		"defname": "VFE_Mech_Advanced_Fireworm"
+	},
+	{
+		"abr": "colossus",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "VFE_Mech_Advanced_Goliath"
+	},
+	{
+		"abr": "hoplite",
+		"price": 1375,
+		"category": "Animal",
+		"defname": "VFE_Mech_Advanced_Phalanx"
+	},
+	{
+		"abr": "siegemaster",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "VFE_Mech_Advanced_Siegebreaker"
+	},
+	{
+		"abr": "abyssaleel",
+		"price": 2,
+		"category": "Alien raw fish",
+		"defname": "VCEF_AbyssalEel"
+	},
+	{
+		"abr": "alcyonitechunk",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "AB_AlcyoniteChunk"
+	},
+	{
+		"abr": "alcyonitesolargenerator",
+		"price": 533,
+		"category": "Misc",
+		"defname": "AB_AlcyoniteSolar"
+	},
+	{
+		"abr": "aliencompliancecenter",
+		"price": 167,
+		"category": "Special",
+		"defname": "AB_AlienComplianceCenter"
+	},
+	{
+		"abr": "ancientbone",
+		"price": 83,
+		"category": "Misc",
+		"defname": "AB_AncientBone"
+	},
+	{
+		"abr": "ancientbones",
+		"price": 83,
+		"category": "Misc",
+		"defname": "AB_AncientVerticalBone"
+	},
+	{
+		"abr": "ancientgallatrossskull",
+		"price": 83,
+		"category": "Misc",
+		"defname": "AB_AncientGallatrossSkull"
+	},
+	{
+		"abr": "ancientshatteredbone",
+		"price": 83,
+		"category": "Misc",
+		"defname": "AB_AncientBrokenBone"
+	},
+	{
+		"abr": "asphaltbucket",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "AB_AsphaltBucket"
+	},
+	{
+		"abr": "bloodbouquet",
+		"price": 3,
+		"category": "Meat",
+		"defname": "AB_RawBloodBouquet"
+	},
+	{
+		"abr": "bloodleech",
+		"price": -10,
+		"category": "Alien raw fish",
+		"defname": "VCEF_BloodLeech"
+	},
+	{
+		"abr": "bluefungus",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_BlueRawFungus"
+	},
+	{
+		"abr": "borealsardine",
+		"price": -10,
+		"category": "Alien raw fish",
+		"defname": "VCEF_BorealSardine"
+	},
+	{
+		"abr": "brownbarrelcactus",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "AB_RawBrownBarrelCactus"
+	},
+	{
+		"abr": "bumbledronejelly",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "AB_BumbledroneFood"
+	},
+	{
+		"abr": "cordaxresin",
+		"price": 17,
+		"category": "Raw resources",
+		"defname": "AB_CordaxResin"
+	},
+	{
+		"abr": "coresampledrill",
+		"price": 1842,
+		"category": "Production",
+		"defname": "AB_CoreSampleDrill"
+	},
+	{
+		"abr": "cragstoneblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "AB_BlocksCragstone"
+	},
+	{
+		"abr": "crystalhorn",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_RawCrystalHorn"
+	},
+	{
+		"abr": "crystallinematrix",
+		"price": 17,
+		"category": "Raw resources",
+		"defname": "AB_CrystallineMatrix"
+	},
+	{
+		"abr": "crystallinewood",
+		"price": 1,
+		"category": "Raw resources",
+		"defname": "AB_CrystalWood"
+	},
+	{
+		"abr": "dribblingcappoisondart",
+		"price": 7,
+		"category": "Grenades",
+		"defname": "AB_WeaponPoisonDart"
+	},
+	{
+		"abr": "duskysprat",
+		"price": -10,
+		"category": "Alien raw fish",
+		"defname": "VCEF_DuskySprat"
+	},
+	{
+		"abr": "exoticautodoor",
+		"price": 358,
+		"category": "Misc",
+		"defname": "AB_ExoticAutoDoor"
+	},
+	{
+		"abr": "exoticcolumn",
+		"price": 88,
+		"category": "Misc",
+		"defname": "AB_ExoticColumn"
+	},
+	{
+		"abr": "exoticdoor",
+		"price": 138,
+		"category": "Misc",
+		"defname": "AB_ExoticDoor"
+	},
+	{
+		"abr": "exoticsmelter",
+		"price": 542,
+		"category": "Production",
+		"defname": "AB_ExoticSmelterOcular"
+	},
+	{
+		"abr": "exoticwall",
+		"price": 21,
+		"category": "Misc",
+		"defname": "AB_ExoticWall"
+	},
+	{
+		"abr": "forsakenanglerfish",
+		"price": 2,
+		"category": "Alien raw fish",
+		"defname": "VCEF_ForsakenAnglerfish"
+	},
+	{
+		"abr": "frigidswimmer",
+		"price": 3,
+		"category": "Alien raw fish",
+		"defname": "VCEF_FrigidSwimmer"
+	},
+	{
+		"abr": "frostleaf",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "AB_RawFrostLeaf"
+	},
+	{
+		"abr": "gallatrossbones",
+		"price": 83,
+		"category": "Misc",
+		"defname": "AB_GallatrossBones"
+	},
+	{
+		"abr": "giantpolarprawn",
+		"price": 2,
+		"category": "Alien raw fish",
+		"defname": "VCEF_GiantPolarPrawn"
+	},
+	{
+		"abr": "giantsunflowerseeds",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_GiantSeeds"
+	},
+	{
+		"abr": "habdaklongfin",
+		"price": 9,
+		"category": "Alien raw fish",
+		"defname": "VCEF_HabdakLongfin"
+	},
+	{
+		"abr": "hugegallatrossskeleton",
+		"price": 83,
+		"category": "Misc",
+		"defname": "AB_HugeGallatrossSkeleton"
+	},
+	{
+		"abr": "iashiphusfruit",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "AB_RawIashiphus"
+	},
+	{
+		"abr": "iedtartrap",
+		"price": 267,
+		"category": "Security",
+		"defname": "AB_TrapIED_Tar"
+	},
+	{
+		"abr": "jellyfungus",
+		"price": 2,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Jellyfungus"
+	},
+	{
+		"abr": "mudsplashercarp",
+		"price": 2,
+		"category": "Alien raw fish",
+		"defname": "VCEF_MudSplasherCarp"
+	},
+	{
+		"abr": "mudstoneblocks",
+		"price": 1,
+		"category": "Stone blocks",
+		"defname": "AB_BlocksMudstone"
+	},
+	{
+		"abr": "mushroomstalks",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "AB_MushroomWoodLog"
+	},
+	{
+		"abr": "mutantflatfish",
+		"price": 1,
+		"category": "Alien raw fish",
+		"defname": "VCEF_MutantFlatfish"
+	},
+	{
+		"abr": "obsidianblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "AB_BlocksObsidian"
+	},
+	{
+		"abr": "ocularfish",
+		"price": 3,
+		"category": "Alien raw fish",
+		"defname": "VCEF_OcularFish"
+	},
+	{
+		"abr": "oculargasspewer",
+		"price": 304,
+		"category": "Misc",
+		"defname": "AB_OcularGasSpewer"
+	},
+	{
+		"abr": "pinkblobfish",
+		"price": 2,
+		"category": "Alien raw fish",
+		"defname": "VCEF_PinkBlobfish"
+	},
+	{
+		"abr": "pinkfungus",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_PinkRawFungus"
+	},
+	{
+		"abr": "processedresin",
+		"price": 75,
+		"category": "Raw resources",
+		"defname": "AB_ProcessedResin"
+	},
+	{
+		"abr": "propanebag",
+		"price": -10,
+		"category": "Alien raw fish",
+		"defname": "VCEF_PropaneBag"
+	},
+	{
+		"abr": "propanefueltank",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "AB_Propane"
+	},
+	{
+		"abr": "propaneheater",
+		"price": 188,
+		"category": "Temperature",
+		"defname": "AB_PropaneHeater"
+	},
+	{
+		"abr": "propanepump",
+		"price": 575,
+		"category": "Misc",
+		"defname": "AB_PropanePump"
+	},
+	{
+		"abr": "propanestove",
+		"price": 252,
+		"category": "Production",
+		"defname": "AB_PropaneStove"
+	},
+	{
+		"abr": "psychotropicfungus",
+		"price": 3,
+		"category": "Drugs",
+		"defname": "AB_PsychotropicFungus"
+	},
+	{
+		"abr": "purplefungus",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_PurpleRawFungus"
+	},
+	{
+		"abr": "rawrimenodules",
+		"price": 2,
+		"category": "Drugs",
+		"defname": "AB_RawRimeNodules"
+	},
+	{
+		"abr": "rosequartzblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "GU_BlocksRoseQuartz"
+	},
+	{
+		"abr": "shadowfry",
+		"price": 1,
+		"category": "Alien raw fish",
+		"defname": "VCEF_ShadowFry"
+	},
+	{
+		"abr": "slime",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "AB_RawSlime"
+	},
+	{
+		"abr": "slimemeal",
+		"price": 17,
+		"category": "Meals",
+		"defname": "AB_SlimeMeal"
+	},
+	{
+		"abr": "slimefish",
+		"price": 9,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Slimefish"
+	},
+	{
+		"abr": "smoothedancientmetal",
+		"price": 30,
+		"category": "Misc",
+		"defname": "AB_SmoothedAncientMetals"
+	},
+	{
+		"abr": "smoothedcragstone",
+		"price": 30,
+		"category": "Misc",
+		"defname": "AB_SmoothedCragstone"
+	},
+	{
+		"abr": "smoothedmudstone",
+		"price": 30,
+		"category": "Misc",
+		"defname": "AB_SmoothedMudstone"
+	},
+	{
+		"abr": "smoothedobsidian",
+		"price": 30,
+		"category": "Misc",
+		"defname": "AB_SmoothedObsidian"
+	},
+	{
+		"abr": "smoothedquartz",
+		"price": 30,
+		"category": "Misc",
+		"defname": "GU_SmoothedQuartz"
+	},
+	{
+		"abr": "smoothedslime",
+		"price": 30,
+		"category": "Misc",
+		"defname": "AB_SmoothedSlimeStone"
+	},
+	{
+		"abr": "spiderfish",
+		"price": 2,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Spiderfish"
+	},
+	{
+		"abr": "spinyfish",
+		"price": 2,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Spinyfish"
+	},
+	{
+		"abr": "sturgeon",
+		"price": 7,
+		"category": "Alien raw fish",
+		"defname": "VCEF_Sturgeon"
+	},
+	{
+		"abr": "sugarfamewort",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_RawSugarFamewort"
+	},
+	{
+		"abr": "tarpump",
+		"price": 792,
+		"category": "Misc",
+		"defname": "AB_TarPump"
+	},
+	{
+		"abr": "tarshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "AB_Shell_Tar"
+	},
+	{
+		"abr": "tentacularfruit",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "AB_RawTentacularFruit"
+	},
+	{
+		"abr": "hologrammeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_SoSHologramRace"
+	},
+	{
+		"abr": "debugpsychicshirt",
+		"price": 10,
+		"category": "Apparel",
+		"defname": "CP_DebugShirt"
+	},
+	{
+		"abr": "psytrainer(arcticpinhole)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_ArcticPinhole"
+	},
+	{
+		"abr": "psytrainer(brainexploder)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_BrainExploder"
+	},
+	{
+		"abr": "psytrainer(cleanskip)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_CleanSkip"
+	},
+	{
+		"abr": "psytrainer(fertilityskip)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_FertilitySkip"
+	},
+	{
+		"abr": "psytrainer(flashheal)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_FlashHeal"
+	},
+	{
+		"abr": "psytrainer(haulskip)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_HaulSkip"
+	},
+	{
+		"abr": "psytrainer(healscars)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_HealScars"
+	},
+	{
+		"abr": "psytrainer(healingtouch)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_HealingTouch"
+	},
+	{
+		"abr": "psytrainer(heavypsychicslug)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_HeavyPsychicSlug"
+	},
+	{
+		"abr": "psytrainer(ignite)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_Ignite"
+	},
+	{
+		"abr": "psytrainer(lightpsychicslug)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_LightPsychicSlug"
+	},
+	{
+		"abr": "psytrainer(mediumpsychicslug)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_MediumPsychicSlug"
+	},
+	{
+		"abr": "psytrainer(mending)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_Mending"
+	},
+	{
+		"abr": "psytrainer(psychicchoke)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_PsychicChoke"
+	},
+	{
+		"abr": "psytrainer(psychicgrenade)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_PsychicGrenade"
+	},
+	{
+		"abr": "psytrainer(psychicpellets)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_PsychicPellets"
+	},
+	{
+		"abr": "psytrainer(regrowbodyparts)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_RegrowBodyParts"
+	},
+	{
+		"abr": "psytrainer(revivingtouch)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_RevivingTouch"
+	},
+	{
+		"abr": "psytrainer(stabilizingtouch)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MorePsycasts_StabilizingTouch"
+	},
 	],
-	"total": 7700
+	"total": 7785
 }

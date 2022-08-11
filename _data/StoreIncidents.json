@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
+		"price": 10000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -142,7 +142,7 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
@@ -212,7 +212,7 @@
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2400,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
@@ -226,18 +226,13 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "sapperraid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -247,27 +242,27 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "predators",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -427,7 +422,7 @@
 	},
 	{
 		"abr": "smite",
-		"price": 2500,
+		"price": 25000,
 		"karmatype": "Doom"
 	},
 	{
@@ -436,5 +431,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 86
 }
